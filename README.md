@@ -24,7 +24,9 @@ The dashboard provides a consolidated view of total sales, average sales, item p
 
 -Build an interactive Excel dashboard for quick insights and reporting
 
-## Total sales reached $1.20M with an average sale of $141 across 8,523 items
+## Key Insights
+
+-Total sales reached $1.20M with an average sale of $141 across 8,523 items
 
 -Fruits & Vegetables ($178.1K) and Snack Foods ($175.4K) are the top categories, contributing ~29% of total sales
 
